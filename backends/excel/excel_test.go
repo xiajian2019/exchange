@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/360EntSecGroup-Skylar/excelize"
-	"github.com/qor/exchange"
-	"github.com/qor/exchange/backends/excel"
-	"github.com/qor/exchange/tests"
+	"github.com/xiajian2019/exchange"
+	"github.com/xiajian2019/exchange/backends/excel"
+	"github.com/xiajian2019/exchange/tests"
 	"github.com/qor/qor"
 	"github.com/qor/qor/resource"
 	"github.com/qor/qor/test/utils"

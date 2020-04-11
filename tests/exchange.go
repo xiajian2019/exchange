@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/qor/exchange"
+	"github.com/xiajian2019/exchange"
 	"github.com/qor/qor/test/utils"
 )
 
