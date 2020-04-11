@@ -1,4 +1,4 @@
-module exchange
+module github.com/xiajian2019/exchange
 
 go 1.14
 
